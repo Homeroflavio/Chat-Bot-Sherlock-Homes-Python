@@ -54,6 +54,8 @@ Você interage com Holmes por meio de perguntas fechadas com múltiplas escolhas
 ## 🕵️‍♀️ Quer Jogar?
 Basta rodar o script e começar a responder. Boa sorte... você vai precisar.
 
+## [ACESSE AQUI PELO GOOGLE COLAB](https://colab.research.google.com/drive/1Xen29Ww9tM-53p9GNPPzGzb-H4g5ZD_O?usp=sharing)
+
 "Quando se elimina o impossível, o que sobra, por mais improvável que seja, deve ser a verdade."
 — Sherlock Holmes
 
